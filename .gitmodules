@@ -1,3 +1,6 @@
 [submodule "portfolio-client"]
 	path = portfolio-client
 	url = https://github.com/NathanDean/portfolio-client
+[submodule "portfolio-server"]
+	path = portfolio-server
+	url = https://github.com/NathanDean/portfolio-server
