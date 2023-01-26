@@ -4,7 +4,7 @@ View this site <a href = "https://nathandean.co.uk">here</a>.
 
 ## What
 
-This is my current portfolio (the site you’re viewing). It’s built with React, using React Router and Material UI. On the backend, I’ve used Sanity v3 as a headless CMS, with the Orderable Document List extension.
+This is my current portfolio. It’s built with React, using React Router and Material UI. On the backend, I’ve used Sanity v3 as a headless CMS, with the Orderable Document List extension.
 
 ## Why
 
